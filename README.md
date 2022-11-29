@@ -1,5 +1,5 @@
 # Warsztaty DevOps dla studentów
-
+* test
 ## Wymagania sprzętowe
 
 ### Windows
